@@ -1,6 +1,14 @@
 # Data-and-Information-Management-Project
 
-# Uma Rede de lanchonetes
+## Grupo  
+1. Rafael dos Reis de Labio - RRL3 - Líder  
+2. Pedro Vítor Cunha - pvc3  
+3. Kennedy Edmilson Cunha Melo - kecm  
+4. Rodrigo Santos Batista - rsb6  
+5. Vinícius Sales Oliveira - vso2  
+6. Leonardo Gabriel Moreira de Oliveira - lgmo  
+
+## Uma Rede de lanchonetes
 
 - Uma empresa (código, nome) deseja manter uma rede de lanchonetes. Para isso ela permite que várias dessas lanchonetes (ID, Endereço (RUA, NUMERO) ) possam ser cadastradas. Porém apenas uma empresa pode cadastrar várias delas, de forma que cada lanchonete seja identificada por um ID.  
 - Toda lanchonete ( ID, Endereço, (Rua, Numero)) emprega vários funcionários ( Cpf , Nome, Telefone)  e que são segmentados entre gerentes e atendentes.  
